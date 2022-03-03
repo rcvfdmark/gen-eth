@@ -1,0 +1,14 @@
+{
+  "name": "gen_eth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genEth.js",
+  "scripts": {
+    "go": "node genEth.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
